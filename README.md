@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-![Clone]([https://github.com/MuallimNaci/AsianKitchensMenu/blob/main/gif.gif](https://github.com/MuallimNaci/Contact-App/blob/main/src/ss.jpg))
+![Clone](https://github.com/MuallimNaci/AsianKitchensMenu/blob/main/gif.gif](https://github.com/MuallimNaci/Contact-App/blob/main/src/ss.jpg)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
